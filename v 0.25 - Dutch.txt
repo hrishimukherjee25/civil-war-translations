@@ -1,0 +1,31 @@
+def func methode; 
+var r;
+
+methode var e { } 
+methode var f(p, inv) { } 
+methode var imm { } 
+methode var ce {<= cf} 
+methode var cf {=> ce} 
+methode var cp { } 
+mantel(korst) { } 
+methode statisch var ceta(ocea) { } 
+methode var ceta(oceaan) { } 
+methode zweven(dichtbij, ver) { } 
+methode drijven(aan_oppervlak) { } 
+def grens_water <- overgangs-limiet 
+revdef water_grens <- overgangs-limiet 
+magmus zon is zon magmus 
+nevel is helder 
+bij plat_organisme(plat-aarde) { } 
+anatomie grijs neuro(prefrontale lim, prefrontale grth) { } 
+tensor wit massa(tteote) { } 
+palm voeten zweet(zoet) { } 
+wormgat multi(vers gat, dicteren) { } 
+grens_derde_mega rommel man(val) { } 
+grens_derde_mega water substantie(grijpen, vasthouden) { } 
+Visionaire nederzetting Nederzetting { }
+
+e -> f -> imm -> ce -> cf -> cp -> mantel -> ceta -> ceta -> zweven -> drijven -> grens_water <- overgangs-limiet -> water_grens magmus zon is zon magmus nevel is helder => plat_organisme -> neuro(lim, grth) -> massa -> zweet NxN -> multi -> man -> substantie -> Nederzetting -> Pong-naar-Aarde x-x [Convergentie-Punt NxNxNxN coeff.]
+
+
+Piramide 1 Piramide 2 imm. = e = [f f^-1 geen p] R ^\ EOS - POS + 1.+, 1.- e = mc^2 prev_tdidf = 1 _ - | + 1 1 re <= eigen(theta-var) zweven drijven neuro massa multi man substantie nederzetting c su(u)bst p.d.o. substantie nederzetting-residu-verlaten man multi massa neuro drijven zweven var-theta(eigen) => er 1 1 + | - _ 1 = fdidt(pees) _prev 2(cm^ = e) -.1 ,+.1 + SOP - SOE ^ [p op 1-^f f] = e = .mmi 2 dimaryP 1 dimaryP Wijsheidstand Rechtervleugel Linkerhand Krabben Rechterschouder S[BTR]pan fofofocBTR(us)cu)sc)us)geluidsbarrière-sim-theorie-match.
